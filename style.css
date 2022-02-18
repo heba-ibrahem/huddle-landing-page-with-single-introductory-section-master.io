@@ -12,7 +12,7 @@
 
 /*********** Screens *************/
 /* Web */
-@media only screen and(max-width:1440px) {
+@media only screen and (max-width:1440px) {
     body {
         background: url("images/bg-desktop.svg") no-repeat;
     }
